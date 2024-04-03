@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tushar Sharma</h1>
 <h3 align="center">A meticulous and passionate person, having the ability to bounce back in any circumstance and come up with optimal solutions that can add value to the final product.I have an immense interest in automating things up and contributing to open source I am a Full Stack Developer from India.</h3>
 
+<img align="right" alt="coding" width="400" src=https://images.app.goo.gl/jpygXaZMzmCeRTkQ6 >
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharsharma530&label=Profile%20views&color=0e75b6&style=flat" alt="tusharsharma530" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tusharsharma530" alt="tusharsharma530" /></a> </p>
